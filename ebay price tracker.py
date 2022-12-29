@@ -13,7 +13,7 @@ import csv
 from datetime import datetime
 import unicodedata
 
-LINK = "https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=telescope&_sacat=0"
+LINK = "https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l2632&_nkw=dell+latitude+7480+14+laptop+i7-7600u+16gb&_sacat=175672&LH_TitleDesc=0&_odkw=laptop+dell+latitude+i7&_osacat=0&_ipg=240"
 
 
 def get_prices_by_link(link):
